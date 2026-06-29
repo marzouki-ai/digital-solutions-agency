@@ -22,4 +22,4 @@ A high-performance digital agency landing page designed to help businesses estab
 3. Start the project: `npm run dev`
 
 ---
-*Built with passion by [Your Name/Handle]*
+*Built with passion by [Yassine Marzouki]*
